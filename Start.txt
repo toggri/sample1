@@ -19,6 +19,8 @@ git add <file> or git add .
 
 git commit -m "comment message"
 
+=> git commit -a -m "perform add and commit"
+
 git push 
 > username
 > password

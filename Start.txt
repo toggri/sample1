@@ -1,7 +1,13 @@
 At Ubuntu 12.04
 
-default installed.
+Python default installed.
 version 2.7.3
+Learning site : http://www.codecademy.com
+id: toggri@gmail.com
+pw: 느낌있는 팔자가 좋아요 
+
+
+
 
 #set github
 apt-get install git-core
@@ -19,5 +25,4 @@ git push
 
 git status
 
-
-
+git pull

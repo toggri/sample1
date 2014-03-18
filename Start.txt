@@ -1,0 +1,23 @@
+At Ubuntu 12.04
+
+default installed.
+version 2.7.3
+
+#set github
+apt-get install git-core
+
+#make clone github
+git clone https://github.com/toggri/sample1
+
+git add <file> or git add .
+
+git commit -m "comment message"
+
+git push 
+> username
+> password
+
+git status
+
+
+

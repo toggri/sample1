@@ -1,6 +1,8 @@
-abc = 0.5
+from math import sqrt
 
-int = 100**0.5
+import math
 
-print str(3**4)
-print str(4**3)
+def sqrt(num):
+    return num*num
+
+print sqrt(9)

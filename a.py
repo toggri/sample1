@@ -1,8 +1,4 @@
-from math import sqrt
+print type(7.0)
+print type(7.5)
+print type(-1)
 
-import math
-
-def sqrt(num):
-    return num*num
-
-print sqrt(9)

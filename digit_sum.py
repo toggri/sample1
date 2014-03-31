@@ -5,5 +5,4 @@ def digit_sum(n):
         result = result + int(c)
     return result
 
-
 print digit_sum(1234)

@@ -1,4 +1,2 @@
-print type(7.0)
-print type(7.5)
-print type(-1)
-
+print int(7.5)
+print int(7.0)

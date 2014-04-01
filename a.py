@@ -1,7 +1,3 @@
-def count(sequence,item):
-    cnt=0
-    for c in sequence:
-        print str(c)
+grades = [100, 100, 90, 40, 80, 100, 85, 70, 90, 65, 90, 85, 50.5]
 
-
-count([1,2.0,4.56,2,'5'],2)
+print sum(grades)

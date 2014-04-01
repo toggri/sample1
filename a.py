@@ -1,18 +1,7 @@
-s="this hack is wack hack"
+def count(sequence,item):
+    cnt=0
+    for c in sequence:
+        print str(c)
 
-list=s.split()
 
-print list
-
-def censor(text,word):
-    slist = text.split()
-    result = []
-    for sword in slist:
-        if sword == word:
-            result.append("*"*len(sword))
-        else:
-            result.append(sword)
-    print result
-    return " ".join(result)
-
-print censor(s,"hack")
+count([1,2.0,4.56,2,'5'],2)
